@@ -1,5 +1,6 @@
 import Quize from "./Quize"
 
+
 function App() {
   return (
     <div className="container">
